@@ -1,0 +1,6 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/APPZ/Xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto c922206a900448b9b3a6d7b8289fa6c7 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot mux_3bit_4to1_behav xil_defaultlib.mux_3bit_4to1 -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [XSIM 43-3189] "D:/Documents/xpopel25/Digital.electronics.1/labs/03-vivado/multiplexer/multiplexer.srcs/sources_1/new/mux_3bit_4to1.vhd" Line 26. Port f_o in top design unit mux_3bit_4to1 is unconstrained. 
