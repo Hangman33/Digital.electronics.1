@@ -1,8 +1,6 @@
 0.7
-2020.1
-May 27 2020
-20:09:33
-D:/Documents/xpopel25/Digital.electronics.1/labs/06-counter/counter/counter.srcs/sim_1/new/tb_clock_enable.vhd,1648032848,vhdl,,,,tb_clock_enable,,,,,,,,
-D:/Documents/xpopel25/Digital.electronics.1/labs/06-counter/counter/counter.srcs/sim_1/new/tb_cnt_up_down.vhd,1648033017,vhdl,,,,tb_cnt_up_down,,,,,,,,
-D:/Documents/xpopel25/Digital.electronics.1/labs/06-counter/counter/counter.srcs/sources_1/new/clock_enable.vhd,1648032795,vhdl,D:/Documents/xpopel25/Digital.electronics.1/labs/06-counter/counter/counter.srcs/sim_1/new/tb_clock_enable.vhd,,,clock_enable,,,,,,,,
-D:/Documents/xpopel25/Digital.electronics.1/labs/06-counter/counter/counter.srcs/sources_1/new/cnt_up_down.vhd,1648032971,vhdl,D:/Documents/xpopel25/Digital.electronics.1/labs/06-counter/counter/counter.srcs/sim_1/new/tb_cnt_up_down.vhd,,,cnt_up_down,,,,,,,,
+2020.2
+Oct 19 2021
+03:16:22
+C:/Users/adamp/Digital.electronics.1/labs/06-counter/counter/counter.srcs/sim_1/new/tb_cnt_up_down.vhd,1648371807,vhdl,,,,tb_cnt_up_down,,,,,,,,
+C:/Users/adamp/Digital.electronics.1/labs/06-counter/counter/counter.srcs/sources_1/new/cnt_up_down.vhd,1648372872,vhdl,C:/Users/adamp/Digital.electronics.1/labs/06-counter/counter/counter.srcs/sim_1/new/tb_cnt_up_down.vhd,,,cnt_up_down,,,,,,,,
