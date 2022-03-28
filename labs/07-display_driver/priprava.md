@@ -1,3 +1,4 @@
+''' javascript
 {
   signal:
   [
@@ -24,3 +25,7 @@
     text: '                    4ms   4ms   4ms   4ms   4ms   4ms   4ms   4ms   4ms   4ms',
   },
 }
+'''
+
+![wavedrom (1)](https://user-images.githubusercontent.com/99763701/160439473-696d0585-07f0-47c6-8533-918b160edec0.png)
+
