@@ -1,9 +1,9 @@
 0.7
-2020.1
-May 27 2020
-20:09:33
-D:/Documents/xpopel25/Digital.electronics.1/labs/07-display_driver/display_driver/display_driver.srcs/sim_1/new/tb_driver_7seg_4digits.vhd,1648637028,vhdl,,,,tb_driver_7seg_4digits,,,,,,,,
-D:/Documents/xpopel25/Digital.electronics.1/labs/07-display_driver/display_driver/display_driver.srcs/sources_1/new/clock_enable.vhd,1648635814,vhdl,D:/Documents/xpopel25/Digital.electronics.1/labs/07-display_driver/display_driver/display_driver.srcs/sources_1/new/driver_7seg_4digits.vhd,,,clock_enable,,,,,,,,
-D:/Documents/xpopel25/Digital.electronics.1/labs/07-display_driver/display_driver/display_driver.srcs/sources_1/new/cnt_up_down.vhd,1648631102,vhdl,D:/Documents/xpopel25/Digital.electronics.1/labs/07-display_driver/display_driver/display_driver.srcs/sources_1/new/driver_7seg_4digits.vhd,,,cnt_up_down,,,,,,,,
-D:/Documents/xpopel25/Digital.electronics.1/labs/07-display_driver/display_driver/display_driver.srcs/sources_1/new/driver_7seg_4digits.vhd,1648633284,vhdl,D:/Documents/xpopel25/Digital.electronics.1/labs/07-display_driver/display_driver/display_driver.srcs/sim_1/new/tb_driver_7seg_4digits.vhd,,,driver_7seg_4digits,,,,,,,,
-D:/Documents/xpopel25/Digital.electronics.1/labs/07-display_driver/display_driver/display_driver.srcs/sources_1/new/hex_7seg.vhd,1648034540,vhdl,D:/Documents/xpopel25/Digital.electronics.1/labs/07-display_driver/display_driver/display_driver.srcs/sources_1/new/driver_7seg_4digits.vhd,,,hex_7seg,,,,,,,,
+2020.2
+Oct 19 2021
+03:16:22
+C:/Users/adamp/Digital.electronics.1/labs/07-display_driver/display_driver/display_driver.srcs/sim_1/new/tb_driver_7seg_4digits.vhd,1649076787,vhdl,,,,tb_driver_7seg_4digits,,,,,,,,
+C:/Users/adamp/Digital.electronics.1/labs/07-display_driver/display_driver/display_driver.srcs/sources_1/new/clock_enable.vhd,1649076787,vhdl,C:/Users/adamp/Digital.electronics.1/labs/07-display_driver/display_driver/display_driver.srcs/sources_1/new/driver_7seg_4digits.vhd,,,clock_enable,,,,,,,,
+C:/Users/adamp/Digital.electronics.1/labs/07-display_driver/display_driver/display_driver.srcs/sources_1/new/cnt_up_down.vhd,1649076787,vhdl,C:/Users/adamp/Digital.electronics.1/labs/07-display_driver/display_driver/display_driver.srcs/sources_1/new/driver_7seg_4digits.vhd,,,cnt_up_down,,,,,,,,
+C:/Users/adamp/Digital.electronics.1/labs/07-display_driver/display_driver/display_driver.srcs/sources_1/new/driver_7seg_4digits.vhd,1649076787,vhdl,C:/Users/adamp/Digital.electronics.1/labs/07-display_driver/display_driver/display_driver.srcs/sim_1/new/tb_driver_7seg_4digits.vhd,,,driver_7seg_4digits,,,,,,,,
+C:/Users/adamp/Digital.electronics.1/labs/07-display_driver/display_driver/display_driver.srcs/sources_1/new/hex_7seg.vhd,1649076787,vhdl,C:/Users/adamp/Digital.electronics.1/labs/07-display_driver/display_driver/display_driver.srcs/sources_1/new/driver_7seg_4digits.vhd,,,hex_7seg,,,,,,,,
