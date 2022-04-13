@@ -30,3 +30,26 @@
 
 ![wavedrom (1)](https://user-images.githubusercontent.com/99763701/160439473-696d0585-07f0-47c6-8533-918b160edec0.png)
 
+https://www.pantechsolutions.net/vhdl-code-for-uart-serial-communication
+
+https://www.mikrocontroller.net/attachment/9036/ALSE_UART_us.pdf
+
+https://www.instructables.com/Design-of-UART-in-VHDL/
+
+https://www.nandland.com/vhdl/modules/module-uart-serial-port-rs232.html
+
+https://forum.digikey.com/t/uart-vhdl/12670
+
+https://github.com/jakubcabal/uart-for-fpga
+
+http://esd.cs.ucr.edu/labs/uart/uart.html
+
+http://ece-research.unm.edu/jimp/vhdl_fpgas/slides/UART.pdf
+
+https://ieeexplore.ieee.org/document/5873448
+
+https://jit.sirim.my/Volume/Volume%2011%20No.2%202002/design_of_a_mini-uart_using_vhdl.pdf
+
+https://www.researchgate.net/publication/254034888_VHDL_implementation_of_UART_with_status_register
+
+https://academic.csuohio.edu/chu_p/rtl/fpga_vhdl_book/fpga_vhdl_sample_chapter.pdf
