@@ -53,3 +53,6 @@ https://jit.sirim.my/Volume/Volume%2011%20No.2%202002/design_of_a_mini-uart_usin
 https://www.researchgate.net/publication/254034888_VHDL_implementation_of_UART_with_status_register
 
 https://academic.csuohio.edu/chu_p/rtl/fpga_vhdl_book/fpga_vhdl_sample_chapter.pdf
+
+https://projects.digilentinc.com/alexey-sudbin/uart-interface-in-vhdl-for-basys3-board-eef170
+
