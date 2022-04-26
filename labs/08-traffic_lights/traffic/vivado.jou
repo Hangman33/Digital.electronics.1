@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Sun Apr 10 21:17:12 2022
+# Process ID: 13140
+# Current directory: C:/Users/adamp/Digital.electronics.1/labs/08-traffic_lights/traffic
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12276 C:\Users\adamp\Digital.electronics.1\labs\08-traffic_lights\traffic\traffic.xpr
+# Log file: C:/Users/adamp/Digital.electronics.1/labs/08-traffic_lights/traffic/vivado.log
+# Journal file: C:/Users/adamp/Digital.electronics.1/labs/08-traffic_lights/traffic\vivado.jou
+# Running On: MSI, OS: Windows, CPU Frequency: 2208 MHz, CPU Physical cores: 6, Host memory: 17018 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/adamp/Digital.electronics.1/labs/08-traffic_lights/traffic/traffic.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source tb_tlc.tcl
+current_wave_config {Untitled 1}
+add_wave {{/tb_tlc/uut_tlc/s_state}} 
+close_sim
+launch_simulation
+source tb_tlc.tcl
+close_sim
+launch_simulation
+source tb_tlc.tcl
+close_sim

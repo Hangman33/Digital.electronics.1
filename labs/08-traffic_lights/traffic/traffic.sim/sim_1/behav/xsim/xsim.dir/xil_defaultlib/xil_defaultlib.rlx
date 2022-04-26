@@ -1,7 +1,7 @@
 0.7
-2020.1
-May 27 2020
-20:09:33
-D:/Documents/xpopel25/Digital.electronics.1/labs/08-traffic_lights/traffic/traffic.srcs/sim_1/new/tb_tlc.vhd,1649238040,vhdl,,,,tb_tlc,,,,,,,,
-D:/Documents/xpopel25/Digital.electronics.1/labs/08-traffic_lights/traffic/traffic.srcs/sources_1/new/clock_enable.vhd,1648635814,vhdl,D:/Documents/xpopel25/Digital.electronics.1/labs/08-traffic_lights/traffic/traffic.srcs/sources_1/new/tlc.vhd,,,clock_enable,,,,,,,,
-D:/Documents/xpopel25/Digital.electronics.1/labs/08-traffic_lights/traffic/traffic.srcs/sources_1/new/tlc.vhd,1649237938,vhdl,D:/Documents/xpopel25/Digital.electronics.1/labs/08-traffic_lights/traffic/traffic.srcs/sim_1/new/tb_tlc.vhd,,,tlc,,,,,,,,
+2020.2
+Oct 19 2021
+03:16:22
+C:/Users/adamp/Digital.electronics.1/labs/08-traffic_lights/traffic/traffic.srcs/sim_1/new/tb_tlc.vhd,1649621450,vhdl,,,,tb_tlc,,,,,,,,
+C:/Users/adamp/Digital.electronics.1/labs/08-traffic_lights/traffic/traffic.srcs/sources_1/new/clock_enable.vhd,1649621450,vhdl,C:/Users/adamp/Digital.electronics.1/labs/08-traffic_lights/traffic/traffic.srcs/sources_1/new/tlc.vhd,,,clock_enable,,,,,,,,
+C:/Users/adamp/Digital.electronics.1/labs/08-traffic_lights/traffic/traffic.srcs/sources_1/new/tlc.vhd,1649622331,vhdl,C:/Users/adamp/Digital.electronics.1/labs/08-traffic_lights/traffic/traffic.srcs/sim_1/new/tb_tlc.vhd,,,tlc,,,,,,,,
