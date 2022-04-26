@@ -13,11 +13,11 @@ architecture Behavioral of top_tb is
 
     component top
         port(
-            clk            : in  std_logic;
-            tx_enable      : in  std_logic;
+            CLK100MHZ      : in  std_logic;
+            BTNC      : in  std_logic;
             reset          : in  std_logic;
-            data_in        : in  std_logic_vector (7 downto 0);
-            data_out       : out std_logic_vector (7 downto 0);
+            SW             : in  std_logic_vector (7 downto 0);
+            LED       : out std_logic_vector (7 downto 0);
 
             rx             : in  std_logic;
             tx             : out std_logic
@@ -43,12 +43,12 @@ begin
 
     uut: top
     port map(
-            clk       => clk,
+            CLK100MHZ => clk,
             reset     => reset,
-            tx_enable => tx_start,
+            BTNC => tx_start,
 
-            data_in   => tx_data_in,
-            data_out  => rx_data_out,
+            SW   => tx_data_in,
+            LED  => rx_data_out,
 
             tx        => tx_serial_out,
             rx        => rx_serial_in
