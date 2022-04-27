@@ -6,7 +6,7 @@ entity top is
     Port ( CLK100MHZ      : in  std_logic;
            BTNC           : in  std_logic; 
            reset          : in  std_logic;
-           tx_start       : in  std_logic;
+           --tx_start       : in  std_logic;
            SW             : in  std_logic_vector (7 downto 0);
            LED            : out std_logic_vector (7 downto 0); 
            rx             : in  std_logic;
